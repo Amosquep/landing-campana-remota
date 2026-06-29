@@ -1,0 +1,13 @@
+name: CI Landing Page
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Run a build simulation
+      run: echo "Ejecutando pruebas de integración continua..."
