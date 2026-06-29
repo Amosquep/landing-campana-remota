@@ -59,3 +59,20 @@ body { font-family: Arial, sans-serif; line-height: 1.6; }
 header { background: #003366; color: white; padding: 20px; text-align: center; }
 section { padding: 20px; }
 #btn-accion { background: #ffcc00; padding: 10px 20px; border: none; cursor: pointer; }
+
+/* Modificación de colores de campaña */
+header { 
+    background: #27ae60; /* Color cambiado de azul a verde para actualizar */
+    color: white; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+#btn-contacto { 
+    background: #e67e22; /* Color de contraste para el nuevo botón */
+    color: white;
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    margin-top: 10px;
+}
