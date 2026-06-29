@@ -10,6 +10,8 @@ El proyecto sigue una organización estándar para facilitar el mantenimiento y 
 - `js/`: Contiene los archivos de lógica y dinamismo (`script.js`).
 - `img/`: Carpeta destinada a los recursos gráficos del proyecto.
 
+## Actualización remota realizada
+
 ## Objetivos
 - Crear una estructura web organizada.
 - Implementar buenas prácticas de desarrollo front-end.
