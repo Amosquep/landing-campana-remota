@@ -9,4 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alert("¡Gracias por tu interés en nuestra campaña!");
         });
     }
+    document.getElementById('btn-accion').addEventListener('click', function() {
+    alert("¡Gracias por unirte al cambio con el Candidato X!");
+});
 });
