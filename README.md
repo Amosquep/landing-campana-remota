@@ -27,6 +27,9 @@ Riesgos: Riesgo de conflictos al trabajar simultáneamente si no se usan PRs.
 
 Oportunidades: Implementar protección de ramas para que nadie pueda enviar cambios directamente a main sin revisión
 
+## Gobernanza del Proyecto
+Roles: Líder Técnico: @Amosquep, Desarrollador @Amosquep, Revisor @LiliaMTorresB
+
 ## Autor
 **Andres Mosquera**
 Programa ADSO - SENA CTMA
