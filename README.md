@@ -17,6 +17,16 @@ El proyecto sigue una organización estándar para facilitar el mantenimiento y 
 - Implementar buenas prácticas de desarrollo front-end.
 - Gestionar el control de versiones utilizando Git y GitHub.
 
+## Diagnóstico del Proyecto.
+Estructura: El proyecto cuenta con index.html, css/estilos.css, js/script.js y carpetas de imágenes.
+
+Flujo actual: Se ha trabajado con ramas (feature-*) y fusiones (merge) hacia main.
+
+Riesgos: Riesgo de conflictos al trabajar simultáneamente si no se usan PRs.
+
+
+Oportunidades: Implementar protección de ramas para que nadie pueda enviar cambios directamente a main sin revisión
+
 ## Autor
 **Andres Mosquera**
 Programa ADSO - SENA CTMA
