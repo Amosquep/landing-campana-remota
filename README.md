@@ -30,6 +30,9 @@ Oportunidades: Implementar protección de ramas para que nadie pueda enviar camb
 ## Gobernanza del Proyecto
 Roles: Líder Técnico: @Amosquep, Desarrollador @Amosquep, Revisor @LiliaMTorresB
 
+## Enlace del Proyecto
+https://amosquep.github.io/landing-campana-remota/
+
 ## Autor
 **Andres Mosquera**
 Programa ADSO - SENA CTMA
